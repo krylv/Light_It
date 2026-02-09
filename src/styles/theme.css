@@ -1,8 +1,9 @@
 @theme {
-	--font-sg: sans-serif, "Sour-Gummy";
+	--font-sg: "Sour Gummy", sans-serif;
 	--color-white: #ffffff;
 	--color-milk: #f5f5f5;
 	--color-midnight: #2d3142;
 	--color-black: #1a1a1a;
 	--color-cloud: #e3f2fd;
+	--color-lamp: #ffff00;
 }

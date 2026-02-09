@@ -16,8 +16,10 @@ export default defineConfig({
 	resolve: {
 		alias: {
 			components: "/src/components",
-			styles: "src/styles",
-			assets: "src/assets",
+			styles: "/src/styles",
+			assets: "/src/assets",
+			utils: "/src/utils",
+			services: "/src/services",
 		},
 	},
 });

@@ -1,11 +1,15 @@
 @import "tailwindcss";
-@import "styles/theme.css";
-@import "styles/typography.css";
-@import "styles/components.css";
+@import "./theme.css";
+@import "./typography.css";
+@import "./components.css";
 
 html,
 body {
 	font-optical-sizing: auto;
 	font-style: normal;
-	@apply box-border m-0 p-0 font-sg bg-black font-semibold text-milk;
+	@apply box-border m-0 p-0 font-sg font-semibold text-milk;
+}
+
+#root {
+	@apply min-h-screen flex flex-col justify-center items-center;
 }

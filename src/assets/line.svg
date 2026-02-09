@@ -1,0 +1,18 @@
+<svg width="100%" height="100%" viewBox="0 0 200 300"  xmlns="http://www.w3.org/2000/svg">
+  <path 
+    d="M 100 0 Q 100 100, 100 150" 
+    stroke="#ffffff"
+    stroke-width="2" 
+    stroke-linecap="round"
+  />
+  
+ 
+  <circle 
+    cx="100" 
+    cy="150" 
+    r="8" 
+    fill="#680e0e"
+    stroke="#310101"
+    stroke-width="5"
+  />
+</svg>
